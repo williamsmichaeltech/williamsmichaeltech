@@ -7,8 +7,11 @@
   - [osTicket: Post-Installation Configuration](https://github.com/williamsmichaeltech/post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/williamsmichaeltech/ticket-lifecycle)
 - <b>Microsoft Azure</b>
-  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/williamsmichaeltech/configure-ad)
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/williamsmichaeltech/azure-network-protocols)
+  - [Inspecting Network Traffic in Azure](https://github.com/williamsmichaeltech/azure-network-protocols)
+  - [Installing Active Directory in Azure](https://github.com/williamsmichaeltech/install-ad)
+  - [Configuring Active Directory in Azure](https://github.com/williamsmichaeltech/configure-ad)
+  - [Understanding DNS in Azure](https://github.com/williamsmichaeltech/intuition-dns)
+  - [Understanding File Permissions in Azure](https://github.com/williamsmichaeltech/file-permissions)
 
 <h2>🤳Connect with me:</h2>
 
